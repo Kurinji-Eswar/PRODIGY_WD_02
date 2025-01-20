@@ -20,7 +20,7 @@ This is a simple Stopwatch application built using HTML, CSS, and JavaScript.
 - **Lap**: Record lap times.
 
 ## Project Structure
-/Stopwatch
+/PRODIGY_WD_02
 |-- /css
 |   |-- styles.css
 |-- /js
